@@ -16,6 +16,9 @@
 body{
     overflow: hidden;
     background-image: url('https://i.pinimg.com/originals/33/11/92/3311924db62ceef62a4a7ee87017280f.jpg');
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
 }
 table{
     background-image: url('https://i.ytimg.com/vi/WklvHSS0kRk/maxresdefault.jpg');
